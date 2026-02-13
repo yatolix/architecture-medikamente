@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
+    <mxGraphModel dx="1122" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="279d4c6e8b4f5ae2-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" parent="1" vertex="1">
+          <mxGeometry x="714" y="604" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" parent="1" vertex="1">
+          <mxGeometry x="1379" y="604" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="827.25" y="-104.25" width="20" height="1447.5" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
+          <mxGeometry x="733" y="384" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
+          <mxGeometry x="1398" y="384" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-9" value="Люди" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="619" y="364" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-11" value="Технологии" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1289" y="364" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-12" value="Окружение" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="582" y="816" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-14" value="Процессы" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1252" y="816" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-15" value="Следствие" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1561" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-16" value="Малочисленность ИТ-команды (3 чел)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="425.95" y="166.95" width="20" height="538.12" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-22" value="Нехватка опыта работы с современными технологиями" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="437.5" y="202.5" width="20" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-25" value="Единая точка отказа т.к. один физический сервер" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="475.95" y="400" width="20" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-1" value="Возможное сопротивление новому, т.к. привыкли" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="455.95" y="240" width="20" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-3" value="Текущие специалисты перегружены" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="467" y="279.5" width="20" height="574" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-5" value="1С в файловом режиме (блокировки)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="166.95" width="20" height="538.12" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-6" value="нет API" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="202.5" width="20" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-7" value="Отсутствие систем контроля версий и CI/CD" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="240" width="20" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-8" value="Плохое качество данных (дубли, ошибки)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="279.5" width="20" height="574" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-9" value="Нет платформы контейнеризации" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="445.95" y="440" width="20" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-10" value="Давление законодательства - жесткие сроки и объёмы миграции" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="395" y="457.5" width="20" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-12" value="Слабый мониторинг" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="400" width="20" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-13" value="Нет управления изменениями" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="440" width="20" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-14" value="Недостаточное тестирование" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="480" width="20" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="n1AUGhm_qtvGwRjpzo2S-15" value="Отсутствие стратегии миграции" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="522.5" width="20" height="535" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
